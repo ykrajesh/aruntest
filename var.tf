@@ -1,6 +1,0 @@
-abcdjkabdhasg
-
-
-lenovo
-
-fnsdfh
