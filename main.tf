@@ -8,5 +8,5 @@ resource "azurerm_virtual_network" "vnet" {
   resource_group_name = data.azurerm_resource_group.rgname.name
 }
 resource "azurerm_storage" "name" {
-  
+ 
 }   
